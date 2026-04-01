@@ -1,4 +1,4 @@
-# Yelp Dataset SQL Analysis (Coursera Project)
+# Yelp Dataset SQL Analysis
 
 ## Project Overview
 
@@ -87,7 +87,6 @@ Long-term users tend to accumulate significantly more engagement and recognition
 ## Project Structure
 
 /yelp-sql-analysis
-├── README.md
 ├── queries.sql
 ├── analysis.sql
 └── notes.txt
@@ -103,5 +102,5 @@ Long-term users tend to accumulate significantly more engagement and recognition
 ---
 
 ## Author
-
-SQL Data Analysis Project – Yelp Dataset (Coursera Assignment)
+Ross Schanck  
+M.S. Data Science
